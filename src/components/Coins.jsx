@@ -1,4 +1,4 @@
-import CoinCard from './Coincard'
+import CoinCard from './CoinCard'
 import { coins } from '../data'
 
 function Coins() {
