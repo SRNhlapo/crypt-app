@@ -10,10 +10,12 @@ function Sidebar() {
             <a href="#transactions" className="block px-4 py-2 rounded-lg hover:text-purple-600">Transactions</a></li>
         <li>
             <a href="#wallet" className="block px-4 py-2 rounded-lg hover:text-purple-600">Wallet</a></li>
+         <li>
+            <a href="#wallet" className="block px-4 py-2 rounded-lg hover:text-purple-600">Mailbox</a></li>
         <li>
             <a href="#settings" className="block px-4 py-2 rounded-lg hover:text-purple-600">Settings</a></li>
         <li>
-            <a href="#mailbox" className="block px-4 py-2 rounded-lg hover:text-purple-600">Mailbox</a></li>
+            <a href="#logout" className="block px-4 py-2 rounded-lg hover:text-purple-600">Logout</a></li>
       </ul>
     </aside>
   );
